@@ -8,3 +8,4 @@
 - Tuplas
 - Matrizes
 - Uso do for e do While
+- Importar bibliotecas (import)
